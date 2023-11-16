@@ -1,0 +1,2 @@
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\SystemCleanerForWindows\SystemCleanerForWindows\bin\net7.0\win-x64\publish\SystemCleanerForWindows.pdb
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\SystemCleanerForWindows\SystemCleanerForWindows\bin\net7.0\win-x64\publish\SystemCleanerForWindows.exe

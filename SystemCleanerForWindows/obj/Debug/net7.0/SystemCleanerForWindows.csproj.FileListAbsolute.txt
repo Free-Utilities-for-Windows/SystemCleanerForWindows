@@ -1,0 +1,14 @@
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\SystemCleanerForWindows\SystemCleanerForWindows\bin\Debug\net7.0\SystemCleanerForWindows.exe
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\SystemCleanerForWindows\SystemCleanerForWindows\bin\Debug\net7.0\SystemCleanerForWindows.deps.json
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\SystemCleanerForWindows\SystemCleanerForWindows\bin\Debug\net7.0\SystemCleanerForWindows.runtimeconfig.json
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\SystemCleanerForWindows\SystemCleanerForWindows\bin\Debug\net7.0\SystemCleanerForWindows.dll
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\SystemCleanerForWindows\SystemCleanerForWindows\bin\Debug\net7.0\SystemCleanerForWindows.pdb
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\SystemCleanerForWindows\SystemCleanerForWindows\obj\Debug\net7.0\SystemCleanerForWindows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\SystemCleanerForWindows\SystemCleanerForWindows\obj\Debug\net7.0\SystemCleanerForWindows.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\SystemCleanerForWindows\SystemCleanerForWindows\obj\Debug\net7.0\SystemCleanerForWindows.AssemblyInfo.cs
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\SystemCleanerForWindows\SystemCleanerForWindows\obj\Debug\net7.0\SystemCleanerForWindows.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\SystemCleanerForWindows\SystemCleanerForWindows\obj\Debug\net7.0\SystemCleanerForWindows.dll
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\SystemCleanerForWindows\SystemCleanerForWindows\obj\Debug\net7.0\refint\SystemCleanerForWindows.dll
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\SystemCleanerForWindows\SystemCleanerForWindows\obj\Debug\net7.0\SystemCleanerForWindows.pdb
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\SystemCleanerForWindows\SystemCleanerForWindows\obj\Debug\net7.0\SystemCleanerForWindows.genruntimeconfig.cache
+C:\Users\User\RiderProjects\Free-Utilities-for-Windows\SystemCleanerForWindows\SystemCleanerForWindows\obj\Debug\net7.0\ref\SystemCleanerForWindows.dll
