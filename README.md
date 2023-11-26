@@ -20,6 +20,10 @@ When you run the application, you will see a menu with options to clean differen
 
 For some options, the application will ask for confirmation before proceeding. Enter `y` to confirm or `n` to cancel.
 
+## Author
+
+Bohdan Harabadzhyu
+
 ## Contributing
 
 If you have suggestions for how System Cleaner could be improved, or want to report a bug, open an issue! We'd love all and any contributions.
