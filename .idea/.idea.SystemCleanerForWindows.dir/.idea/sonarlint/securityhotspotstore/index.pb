@@ -76,3 +76,5 @@ U
 %SystemCleanerForWindows/RecycleBin.cs,a\1\a1096b9911ed99ef75e99be00efb03f4682344b7
 V
 &SystemCleanerForWindows/MyDirectory.cs,9\f\9fdcfde3bd9a7b3795ea74c0af1ce9e2de0fb0aa
+7
+LICENSE,0\3\0398ccd0f49298b10a3d76a47800d2ebecd49859
